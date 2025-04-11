@@ -1,0 +1,40 @@
+<div class="flex h-full max-w-lg lg:flex-col flex-row lg:items-start items-center lg:justify-start justify-around lg:mx-0 lg:gap-y-4 mx-auto">
+<a aria-current="page" class="text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center active" href="/ADI/dashboard">
+    <div class="relative">
+        <i class="pmf-icon-home text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">Home</span>
+</a>
+<a class="text-indigo-200 hover:text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center" href="/ADI/lessons">
+    <div class="relative">
+        <i class="pmf-icon-calendar text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">Calendar</span>
+</a>
+<a class="text-indigo-200 hover:text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center" href="/ADI/new-jobs">
+    <div class="relative">
+        <i class="pmf-icon-wheel text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">Jobs</span>
+</a>
+<a class="text-indigo-200 hover:text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center" href="/ADI/students">
+    <div class="relative">
+        <i class="pmf-icon-user text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">Learners</span>
+</a>
+<a class="text-indigo-200 hover:text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center" href="/ADI/payments">
+    <div class="relative">
+        <i class="pmf-icon-currency-pound text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">Finance</span>
+/a>
+<a class="text-indigo-200 hover:text-white group flex gap-x-3 rounded-md sm:py-2 py-6 text-sm leading-6 font-semibold lg:flex-row flex-col items-center justify-center" href="/ADI/more">
+    <div class="relative">
+        <i class="pmf-icon-more-outline text-[24px] lg:mb-0 mb-2"></i>
+    </div>
+    <span class="lg:text-sm text-xs">More</span>
+</a>
+</div>
+
+<button class="fixed bottom-[100px] md:bottom-16 md:left-[] md:mx-0 md:start-20 mx-auto inset-x-0 p-0 w-16 h-16 bg-yellow rounded-full z-[100] hover:brightness-75 active:shadow-lg mouse shadow transition ease-in duration-200 focus:outline-none"><svg viewBox="0 0 20 20" class="w-6 h-6 inline-block"><path fill="#163A5E" d="M16,10c0,0.553-0.048,1-0.601,1H11v4.399C11,15.951,10.553,16,10,16c-0.553,0-1-0.049-1-0.601V11H4.601 C4.049,11,4,10.553,4,10c0-0.553,0.049-1,0.601-1H9V4.601C9,4.048,9.447,4,10,4c0.553,0,1,0.048,1,0.601V9h4.399 C15.952,9,16,9.447,16,10z"></path></svg></button>
