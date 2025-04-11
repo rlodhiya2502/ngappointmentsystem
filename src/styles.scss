@@ -1,6 +1,21 @@
+@import "tailwindcss";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/forms";
+@import "tailwindcss/typography";
+@import "tailwindcss/aspect-ratio";
+@import "tailwindcss/line-clamp";
+@import "tailwindcss/typography";
+@import "tailwindcss/animation";
+@import "tailwindcss/typography";
+
 /* You can add global styles to this file, and also import other style files */
 head,
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
 }
